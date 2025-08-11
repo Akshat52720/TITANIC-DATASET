@@ -1,9 +1,10 @@
 # TITANIC-DATASET
-# 🚢 Titanic Exploratory Data Analysis (EDA)
+
+# Titanic Exploratory Data Analysis (EDA)
 
 This project explores the Titanic dataset to uncover patterns related to passenger survival. It combines data from `train.csv`, `test.csv`, and `gender_submission.csv`, performs feature engineering, and visualizes key relationships.
 
-## 📁 Dataset Overview
+## Dataset Overview
 
 - `train.csv`: Passenger features + survival labels
 - `test.csv`: Passenger features (no survival labels)
