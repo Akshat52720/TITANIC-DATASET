@@ -52,8 +52,8 @@ This project explores the Titanic dataset to uncover patterns related to passeng
 | Title        | Social titles revealed survival patterns |
 
  ## Final Summary of Findings
- • Survival is strongly influenced by Fare, Pclass, and Gender.
- • Passengers traveling alone had lower survival rates.
- • Titles (like Mrs, Miss) may reflect social status and survival likelihood.
- • Higher Fare often indicates better class and higher survival.
- • Age is not a strong predictor alone but interacts with other features
+ - Survival is strongly influenced by Fare, Pclass, and Gender.
+ - Passengers traveling alone had lower survival rates.
+ - Titles (like Mrs, Miss) may reflect social status and survival likelihood.
+ - Higher Fare often indicates better class and higher survival.
+ - Age is not a strong predictor alone but interacts with other features
